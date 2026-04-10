@@ -54,10 +54,10 @@ Stay tuned. The infrastructure is getting smarter.
 
 **How to Run**
 
-- Download HyperGate Tool.exe.
+- Download HyperGate_Tool.exe.
 - Place Master_Inventory.xlsx in the same folder.
 - Modify Master_Inventory.xlsx in the same folder, as per your Proxmox infrastructure.
-- Run HyperGate Tool.exe, agree to the terms, and enjoy !!
+- Run HyperGate_Tool.exe, agree to the terms, and enjoy !!
 
 **Developer: Inderjeet Singh**
 
