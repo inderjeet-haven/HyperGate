@@ -36,7 +36,7 @@ Innovation: Developing new modules for my infrastructure management suite.
 Validation: Testing complex multi-vendor cluster scenarios in a dedicated lab.
 Accessibility: Keeping my current and future tools accessible for the community.
 
-If my work has saved you time or simplified your workflow, consider buying me a coffee to keep the innovation engine running.
+If my work has saved you time or simplified your workflow, consider buying me a coffee (https://www.buymeacoffee.com/inderjeet)  to keep the innovation engine running.
 
 📂 Configuration & Data Mapping
 
@@ -53,10 +53,11 @@ Stay tuned. The infrastructure is getting smarter.
 
 How to Run
 
-Download HyperGate_V47.exe.
+Download HyperGate Tool.exe.
 
 Place Master_Inventory.xlsx in the same folder.
 Modify Master_Inventory.xlsx in the same folder, as per your Proxmox infrastructure.
 Run HyperGate Tool.exe, agree to the terms, and enjoy !!
 
 Developer: Inderjeet Singh
+Company: SS Homestead Haven Inc.
